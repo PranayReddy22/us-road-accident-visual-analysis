@@ -29,8 +29,8 @@ The goal is to help city planners, traffic management agencies, and public safet
   - Fridays recorded the most weekday accidents
 
 - **Infrastructure Risk Zones**  
-  Features like *traffic signals*, *junctions*, and *crossings* were linked to both high frequency and high severity  
-  Roundabouts and turning loops had fewer severe incidents, indicating safer traffic design
+  - Features like *traffic signals*, *junctions*, and *crossings* were linked to both high frequency and high severity  
+  - Roundabouts and turning loops had fewer severe incidents, indicating safer traffic design
 
 - **Accident Survivability & Amenities**  
   Cities like Atlanta with fewer nearby amenities and longer accident durations had more non-survivable cases, highlighting emergency response gaps
