@@ -33,10 +33,10 @@ The goal is to help city planners, traffic management agencies, and public safet
   - Roundabouts and turning loops had fewer severe incidents, indicating safer traffic design
 
 - **Accident Survivability & Amenities**  
-  Cities like Atlanta with fewer nearby amenities and longer accident durations had more non-survivable cases, highlighting emergency response gaps
+  Cities like Atlanta with fewer nearby amenities and longer accident durations had more non-survivable cases, highlighting emergency response gaps.
 
 - **Sentiment Analysis**  
-  Word clouds and histograms of accident descriptions revealed a slight skew toward negative sentiment and common terms like “caution,” “exit,” and “northbound”
+  Word clouds and histograms of accident descriptions revealed a slight skew toward negative sentiment and common terms like “caution,” “exit,” and “northbound”.
 
 ---
 
